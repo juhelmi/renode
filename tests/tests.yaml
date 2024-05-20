@@ -151,3 +151,4 @@
 - tests/platforms/BeagleV-StarLight.robot
 - tests/unit-tests/virtual-time.robot
 - tests/peripherals/VirtIO.robot
+- tests/peripherals/CLIC.robot
