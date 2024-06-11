@@ -152,4 +152,5 @@
 - tests/unit-tests/virtual-time.robot
 - tests/peripherals/VirtIO.robot
 - tests/peripherals/CLIC/CLIC_tests.robot
+- tests/peripherals/CLIC/CLIC-indirect-csr.robot
 - tests/peripherals/CLIC.robot
